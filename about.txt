@@ -1,0 +1,3 @@
+FRIENDSHIP-CALCULATOR
+
+Go ahead and calculate the bond between you and your buddy.
